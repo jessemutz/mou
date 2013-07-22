@@ -16,10 +16,17 @@ blockquote {
 }
 body {
     font-family: "Proxima Nova", "Helvetica Neue", Helvetica, "Hiragino Sans GB", Arial, sans-serif;
+<<<<<<< HEAD
     font-size: 16px;
     line-height: 22px;
     color: #777;
     background-color: #fff;
+=======
+    font-size: 14px;
+    line-height: 20px;
+    color: #777;
+    background-color: #fdfdff;
+>>>>>>> e2f493b587415ef89da69a18e1f72684b7d09d5f
     margin: 10px 14px 14px;
 }
 body em {

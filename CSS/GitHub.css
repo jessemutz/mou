@@ -66,6 +66,17 @@ ul ul,ul ol,ol ol,ol ul{margin-top:0;margin-bottom:0;}
 blockquote{margin:1em 0;border-left:5px solid #ddd;padding-left:.6em;color:#555;}
 dt{font-weight:bold;margin-left:1em;}
 dd{margin-left:2em;margin-bottom:1em;}
+<<<<<<< HEAD
+=======
+sup {
+    font-size: 0.83em;
+    vertical-align: super;
+    line-height: 0;
+}
+* {
+	-webkit-print-color-adjust: exact;
+}
+>>>>>>> e2f493b587415ef89da69a18e1f72684b7d09d5f
 @media screen and (min-width: 914px) {
     body {
         width: 854px;
@@ -76,4 +87,10 @@ dd{margin-left:2em;margin-bottom:1em;}
 	table, pre {
 		page-break-inside: avoid;
 	}
+<<<<<<< HEAD
+=======
+	pre {
+		word-wrap: break-word;
+	}
+>>>>>>> e2f493b587415ef89da69a18e1f72684b7d09d5f
 }

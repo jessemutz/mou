@@ -17,6 +17,7 @@ font-style: bold
 
 H3
 foreground: 8d7cd2
+<<<<<<< HEAD
 
 H4
 foreground: 8d7cd2
@@ -26,6 +27,21 @@ foreground: 8d7cd2
 
 H6
 foreground: 8d7cd2
+=======
+font-style: bold
+
+H4
+foreground: 8d7cd2
+font-style: bold
+
+H5
+foreground: 8d7cd2
+font-style: bold
+
+H6
+foreground: 8d7cd2
+font-style: bold
+>>>>>>> e2f493b587415ef89da69a18e1f72684b7d09d5f
 
 EMPH
 foreground: db8d50

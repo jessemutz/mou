@@ -1,7 +1,7 @@
 editor
-foreground: 000000
-background: ffffff
-caret: 000000
+foreground: 424242
+background: fafafa
+caret: 00b9ff
 
 H1
 font-style: bold
@@ -10,14 +10,6 @@ H2
 font-style: bold
 
 H3
-<<<<<<< HEAD
-
-H4
-
-H5
-
-H6
-=======
 font-style: bold
 
 H4
@@ -28,7 +20,6 @@ font-style: bold
 
 H6
 font-style: bold
->>>>>>> e2f493b587415ef89da69a18e1f72684b7d09d5f
 
 EMPH
 font-style: italic

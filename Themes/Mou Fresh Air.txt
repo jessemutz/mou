@@ -17,12 +17,24 @@ font-style: bold
 
 H3
 foreground: 6c71c4
+<<<<<<< HEAD
 
 H4
 foreground: 268bd2
 
 H5
 foreground: 268bd2
+=======
+font-style: bold
+
+H4
+foreground: 268bd2
+font-style: bold
+
+H5
+foreground: 268bd2
+font-style: bold
+>>>>>>> e2f493b587415ef89da69a18e1f72684b7d09d5f
 
 H6
 foreground: 268bd2

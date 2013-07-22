@@ -162,12 +162,18 @@ table {
     table tr th {
       font-weight: bold;
       border: 1px solid #cccccc;
+<<<<<<< HEAD
       text-align: left;
+=======
+>>>>>>> e2f493b587415ef89da69a18e1f72684b7d09d5f
       margin: 0;
       padding: 6px 13px; }
     table tr td {
       border: 1px solid #cccccc;
+<<<<<<< HEAD
       text-align: left;
+=======
+>>>>>>> e2f493b587415ef89da69a18e1f72684b7d09d5f
       margin: 0;
       padding: 6px 13px; }
     table tr th :first-child, table tr td :first-child {
@@ -275,6 +281,17 @@ pre {
     background-color: transparent;
     border: none; }
 
+<<<<<<< HEAD
+=======
+sup {
+    font-size: 0.83em;
+    vertical-align: super;
+    line-height: 0;
+}
+* {
+	-webkit-print-color-adjust: exact;
+}
+>>>>>>> e2f493b587415ef89da69a18e1f72684b7d09d5f
 @media screen and (min-width: 914px) {
     body {
         width: 854px;
@@ -285,4 +302,10 @@ pre {
 	table, pre {
 		page-break-inside: avoid;
 	}
+<<<<<<< HEAD
+=======
+	pre {
+		word-wrap: break-word;
+	}
+>>>>>>> e2f493b587415ef89da69a18e1f72684b7d09d5f
 }

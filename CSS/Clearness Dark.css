@@ -122,6 +122,17 @@ pre code {
     font-size: 11px;
     padding: 0;
 }
+<<<<<<< HEAD
+=======
+sup {
+    font-size: 0.83em;
+    vertical-align: super;
+    line-height: 0;
+}
+* {
+	-webkit-print-color-adjust: exact;
+}
+>>>>>>> e2f493b587415ef89da69a18e1f72684b7d09d5f
 @media screen and (min-width: 914px) {
     body {
         width: 854px;
