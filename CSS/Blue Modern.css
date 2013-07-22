@@ -1,0 +1,154 @@
+/* 
+Blue Modern theme made by Jesse Mutzebaugh.
+@jessemutz
+*/
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote {
+    margin: 0;
+    padding: 0;
+}
+body {
+    font-family: "Proxima Nova", "Helvetica Neue", Helvetica, "Hiragino Sans GB", Arial, sans-serif;
+    font-size: 16px;
+    line-height: 22px;
+    color: #777;
+    background-color: #fff;
+    margin: 10px 14px 14px;
+}
+body em {
+    color: #aaa;
+}
+table {
+	margin: 10px 0 15px 0;
+	border-collapse: collapse;
+}
+td,th {	
+	border: 1px solid #ddd;
+	padding: 3px 10px;
+}
+th {
+	padding: 5px 10px;	
+}
+
+a {
+    color: #1aa1e1;
+    text-decoration: none;
+}
+a:hover {
+    color: #2ac7e1;
+    text-decoration: none;
+}
+a img {
+    border: none;
+}
+p {
+    margin-bottom: 10px;
+}
+ul {
+    margin-top: -5px;
+    line-height: 1.5em;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: #404040;
+    line-height: 36px;
+}
+h1 {
+    margin-bottom: 12px;
+    font-size: 30px;
+}
+h2 {
+    font-size: 24px;
+}
+h3 {
+    font-size: 20px;
+}
+h4 {
+    font-size: 18px;
+}
+h5 {
+    font-size: 15px;
+}
+h6 {
+    font-size: 14px;
+}
+hr {
+    margin: 30px 0 10px;
+    border: 0;
+    border-bottom: 1px solid #ccc;
+}
+blockquote {
+    padding: 8px 25px 8px 10px;
+    margin: 0 25px 20px 10px;
+    font-family: georgia,serif;
+    font-style: italic;
+    border-left: 4px solid #2ac7e1;
+    background: #f0f0f5;
+}
+blockquote:before {
+    margin-left: 30px;
+}
+blockquote p {
+    font-size: 14px;
+    font-weight: 300;
+    color: #777;
+    line-height: 18px;
+    margin-bottom: 0;
+    font-style: italic;
+}
+blockquote b {
+    color: #444;
+}
+code, pre {
+    font-family: Monaco, Andale Mono, Courier New, monospace;
+}
+code {
+    background-color: #ddf0f9;
+    color: rgba(0, 0, 0, 0.75);
+    padding: 1px 3px;
+    font-size: 12px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+}
+pre {
+    display: block;
+    padding: 14px;
+    margin: 0 0 18px;
+    line-height: 16px;
+    font-size: 11px;
+    border: 1px solid #d9d9d9;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+}
+pre code {
+    background-color: #fff;
+    color:#737373;
+    font-size: 11px;
+    padding: 0;
+}
+@media screen and (min-width: 914px) {
+    body {
+        width: 854px;
+        margin:10px auto;
+    }
+}
+@media print {
+	body,code,pre code,h1,h2,h3,h4,h5,h6 {
+	   color: black;
+	}
+	table, pre {
+		page-break-inside: avoid;
+	}
+}
